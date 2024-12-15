@@ -13,3 +13,4 @@ Set of solutions for https://adventofcode.com/2024
 * [day11](src/main/java/es/usj/day11)
 * [day12](src/main/java/es/usj/day12)
 * [day13](src/main/java/es/usj/day13)
+* [day14](src/main/java/es/usj/day14)
